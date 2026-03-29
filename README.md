@@ -64,7 +64,7 @@ Infographic: https://canva.link/pe51vtaqidgjmkr
 
 Google Form: https://forms.gle/Dc9Xbgce2fxChmJT6
 
-GitHub Repository: https://github.com/rishi25bai11009-eng/Digital-Literacy-Portfolio-Building-Skills-for-the-Modern-Digital-World.git
+GitHub Repository: https://github.com/nayan25bai11018-dev/nayan25bai11018-dev-Digital-Literacy-Portfolio-Building-Skills-for-the-Modern-Digital-World.git
 
 ---
 
